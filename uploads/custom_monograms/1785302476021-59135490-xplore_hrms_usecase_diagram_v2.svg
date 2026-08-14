@@ -1,0 +1,319 @@
+<svg viewBox="0 0 2750 1512" xmlns="http://www.w3.org/2000/svg" font-family="Arial, Helvetica, sans-serif">
+<rect x="0" y="0" width="2750" height="1512" fill="#ffffff"/>
+<text x="1375" y="40" text-anchor="middle" font-size="26" font-weight="bold" fill="#0b2e59">ENTERPRISE HRMS — PHASE 1</text>
+<text x="1375" y="68" text-anchor="middle" font-size="18" font-weight="bold" fill="#0b2e59">USE CASE DIAGRAM</text>
+<rect x="210" y="90" width="2300" height="1122" rx="14" fill="none" stroke="#0b2e59" stroke-width="2.5"/>
+<text x="1360" y="116" text-anchor="middle" font-size="16" font-weight="bold" fill="#0b2e59">Xplore Enterprise HRMS (Phase 1)</text>
+<rect x="230" y="130" width="520" height="394" rx="10" fill="#eaf2ff" fill-opacity="0.35" stroke="#1f6feb" stroke-width="1.8" stroke-dasharray="6,4"/>
+<text x="490" y="152" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#1f6feb">1. AUTHENTICATION</text>
+<ellipse cx="490" cy="178" rx="244" ry="14" fill="#ffffff" stroke="#1f6feb" stroke-width="1.3"/>
+<text x="490" y="182" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Login</text>
+<ellipse cx="490" cy="214" rx="244" ry="14" fill="#ffffff" stroke="#1f6feb" stroke-width="1.3"/>
+<text x="490" y="218" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Logout</text>
+<ellipse cx="490" cy="250" rx="244" ry="14" fill="#ffffff" stroke="#1f6feb" stroke-width="1.3"/>
+<text x="490" y="254" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Forgot Password</text>
+<ellipse cx="490" cy="286" rx="244" ry="14" fill="#ffffff" stroke="#1f6feb" stroke-width="1.3"/>
+<text x="490" y="290" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Change Password</text>
+<rect x="810" y="130" width="520" height="394" rx="10" fill="#eafbea" fill-opacity="0.35" stroke="#2f9e44" stroke-width="1.8" stroke-dasharray="6,4"/>
+<text x="1070" y="152" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#2f9e44">2. ORGANIZATION MANAGEMENT</text>
+<ellipse cx="944" cy="178" rx="118" ry="14" fill="#ffffff" stroke="#2f9e44" stroke-width="1.3"/>
+<text x="944" y="182" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Manage Company</text>
+<ellipse cx="1196" cy="178" rx="118" ry="14" fill="#ffffff" stroke="#2f9e44" stroke-width="1.3"/>
+<text x="1196" y="182" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Manage Branches</text>
+<ellipse cx="944" cy="214" rx="118" ry="14" fill="#ffffff" stroke="#2f9e44" stroke-width="1.3"/>
+<text x="944" y="218" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Manage Departments</text>
+<ellipse cx="1196" cy="214" rx="118" ry="14" fill="#ffffff" stroke="#2f9e44" stroke-width="1.3"/>
+<text x="1196" y="218" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Manage Designations</text>
+<ellipse cx="944" cy="250" rx="118" ry="14" fill="#ffffff" stroke="#2f9e44" stroke-width="1.3"/>
+<text x="944" y="254" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Manage Teams</text>
+<ellipse cx="1196" cy="250" rx="118" ry="14" fill="#ffffff" stroke="#2f9e44" stroke-width="1.3"/>
+<text x="1196" y="254" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Manage Roles</text>
+<ellipse cx="944" cy="286" rx="118" ry="14" fill="#ffffff" stroke="#2f9e44" stroke-width="1.3"/>
+<text x="944" y="290" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Assign Permissions</text>
+<ellipse cx="1196" cy="286" rx="118" ry="14" fill="#ffffff" stroke="#2f9e44" stroke-width="1.3"/>
+<text x="1196" y="290" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Configure Approval Matrix</text>
+<rect x="1390" y="130" width="520" height="394" rx="10" fill="#fff1e6" fill-opacity="0.35" stroke="#e8590c" stroke-width="1.8" stroke-dasharray="6,4"/>
+<text x="1650" y="152" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#e8590c">3. EMPLOYEE MANAGEMENT</text>
+<ellipse cx="1524" cy="178" rx="118" ry="14" fill="#ffffff" stroke="#e8590c" stroke-width="1.3"/>
+<text x="1524" y="182" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Create Employee</text>
+<ellipse cx="1776" cy="178" rx="118" ry="14" fill="#ffffff" stroke="#e8590c" stroke-width="1.3"/>
+<text x="1776" y="182" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Update Employee</text>
+<ellipse cx="1524" cy="214" rx="118" ry="14" fill="#ffffff" stroke="#e8590c" stroke-width="1.3"/>
+<text x="1524" y="218" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Delete Employee</text>
+<ellipse cx="1776" cy="214" rx="118" ry="14" fill="#ffffff" stroke="#e8590c" stroke-width="1.3"/>
+<text x="1776" y="218" text-anchor="middle" font-size="10.5" fill="#1a1a1a">View Employee</text>
+<ellipse cx="1524" cy="250" rx="118" ry="14" fill="#ffffff" stroke="#e8590c" stroke-width="1.3"/>
+<text x="1524" y="254" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Manage Documents</text>
+<ellipse cx="1776" cy="250" rx="118" ry="14" fill="#ffffff" stroke="#e8590c" stroke-width="1.3"/>
+<text x="1776" y="254" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Manage Skills</text>
+<ellipse cx="1524" cy="286" rx="118" ry="14" fill="#ffffff" stroke="#e8590c" stroke-width="1.3"/>
+<text x="1524" y="290" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Manage Experience</text>
+<ellipse cx="1776" cy="286" rx="118" ry="14" fill="#ffffff" stroke="#e8590c" stroke-width="1.3"/>
+<text x="1776" y="290" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Manage Education</text>
+<ellipse cx="1524" cy="322" rx="118" ry="14" fill="#ffffff" stroke="#e8590c" stroke-width="1.3"/>
+<text x="1524" y="326" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Manage Bank Details</text>
+<rect x="1396" y="368" width="508" height="148" rx="8" fill="#ffffff" fill-opacity="0.6" stroke="#e8590c" stroke-width="1.2" stroke-dasharray="3,3"/>
+<text x="1650" y="384" text-anchor="middle" font-size="11" font-style="italic" font-weight="bold" fill="#e8590c">Employee Lifecycle</text>
+<ellipse cx="1529" cy="408" rx="113" ry="14" fill="#ffffff" stroke="#e8590c" stroke-width="1.1"/>
+<text x="1529" y="412" text-anchor="middle" font-size="9.3" fill="#1a1a1a">Onboarding</text>
+<ellipse cx="1781" cy="408" rx="113" ry="14" fill="#ffffff" stroke="#e8590c" stroke-width="1.1"/>
+<text x="1781" y="412" text-anchor="middle" font-size="9.3" fill="#1a1a1a">Confirmation</text>
+<ellipse cx="1529" cy="444" rx="113" ry="14" fill="#ffffff" stroke="#e8590c" stroke-width="1.1"/>
+<text x="1529" y="448" text-anchor="middle" font-size="9.3" fill="#1a1a1a">Promotion</text>
+<ellipse cx="1781" cy="444" rx="113" ry="14" fill="#ffffff" stroke="#e8590c" stroke-width="1.1"/>
+<text x="1781" y="448" text-anchor="middle" font-size="9.3" fill="#1a1a1a">Transfer</text>
+<ellipse cx="1529" cy="480" rx="113" ry="14" fill="#ffffff" stroke="#e8590c" stroke-width="1.1"/>
+<text x="1529" y="484" text-anchor="middle" font-size="9.3" fill="#1a1a1a">Exit Management</text>
+<rect x="1970" y="130" width="520" height="394" rx="10" fill="#e6fcf5" fill-opacity="0.35" stroke="#0ca678" stroke-width="1.8" stroke-dasharray="6,4"/>
+<text x="2230" y="152" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#0ca678">4. ATTENDANCE MANAGEMENT</text>
+<ellipse cx="2104" cy="178" rx="118" ry="14" fill="#ffffff" stroke="#0ca678" stroke-width="1.3"/>
+<text x="2104" y="182" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Check In</text>
+<ellipse cx="2356" cy="178" rx="118" ry="14" fill="#ffffff" stroke="#0ca678" stroke-width="1.3"/>
+<text x="2356" y="182" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Break In</text>
+<ellipse cx="2104" cy="214" rx="118" ry="14" fill="#ffffff" stroke="#0ca678" stroke-width="1.3"/>
+<text x="2104" y="218" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Break Out</text>
+<ellipse cx="2356" cy="214" rx="118" ry="14" fill="#ffffff" stroke="#0ca678" stroke-width="1.3"/>
+<text x="2356" y="218" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Check Out</text>
+<ellipse cx="2104" cy="250" rx="118" ry="14" fill="#ffffff" stroke="#0ca678" stroke-width="1.3"/>
+<text x="2104" y="254" text-anchor="middle" font-size="10.5" fill="#1a1a1a">View Attendance</text>
+<ellipse cx="2356" cy="250" rx="118" ry="14" fill="#ffffff" stroke="#0ca678" stroke-width="1.3"/>
+<text x="2356" y="254" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Attendance Regularization</text>
+<ellipse cx="2104" cy="286" rx="118" ry="14" fill="#ffffff" stroke="#0ca678" stroke-width="1.3"/>
+<text x="2104" y="290" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Approve Regularization</text>
+<ellipse cx="2356" cy="286" rx="118" ry="14" fill="#ffffff" stroke="#0ca678" stroke-width="1.3"/>
+<text x="2356" y="290" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Manage Shifts</text>
+<ellipse cx="2104" cy="322" rx="118" ry="14" fill="#ffffff" stroke="#0ca678" stroke-width="1.3"/>
+<text x="2104" y="326" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Manage Overtime</text>
+<rect x="230" y="584" width="520" height="310" rx="10" fill="#f3f0ff" fill-opacity="0.35" stroke="#7048e8" stroke-width="1.8" stroke-dasharray="6,4"/>
+<text x="490" y="606" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#7048e8">5. GEO ATTENDANCE &amp; TRACKING</text>
+<ellipse cx="364" cy="632" rx="118" ry="14" fill="#ffffff" stroke="#7048e8" stroke-width="1.3"/>
+<text x="364" y="636" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Capture GPS Location</text>
+<ellipse cx="616" cy="632" rx="118" ry="14" fill="#ffffff" stroke="#7048e8" stroke-width="1.3"/>
+<text x="616" y="636" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Validate Geofence</text>
+<ellipse cx="364" cy="668" rx="118" ry="14" fill="#ffffff" stroke="#7048e8" stroke-width="1.3"/>
+<text x="364" y="672" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Validate IP Address</text>
+<ellipse cx="616" cy="668" rx="118" ry="14" fill="#ffffff" stroke="#7048e8" stroke-width="1.3"/>
+<text x="616" y="672" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Capture Live Location</text>
+<ellipse cx="364" cy="704" rx="118" ry="14" fill="#ffffff" stroke="#7048e8" stroke-width="1.3"/>
+<text x="364" y="708" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Track Location History</text>
+<ellipse cx="616" cy="704" rx="118" ry="14" fill="#ffffff" stroke="#7048e8" stroke-width="1.3"/>
+<text x="616" y="708" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Detect Work Mode (Office/WFH/Site)</text>
+<rect x="810" y="584" width="520" height="310" rx="10" fill="#fff9db" fill-opacity="0.35" stroke="#f08c00" stroke-width="1.8" stroke-dasharray="6,4"/>
+<text x="1070" y="606" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#f08c00">6. LEAVE MANAGEMENT</text>
+<ellipse cx="944" cy="632" rx="118" ry="14" fill="#ffffff" stroke="#f08c00" stroke-width="1.3"/>
+<text x="944" y="636" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Apply Leave</text>
+<ellipse cx="1196" cy="632" rx="118" ry="14" fill="#ffffff" stroke="#f08c00" stroke-width="1.3"/>
+<text x="1196" y="636" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Check Leave Balance</text>
+<ellipse cx="944" cy="668" rx="118" ry="14" fill="#ffffff" stroke="#f08c00" stroke-width="1.3"/>
+<text x="944" y="672" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Cancel Leave</text>
+<ellipse cx="1196" cy="668" rx="118" ry="14" fill="#ffffff" stroke="#f08c00" stroke-width="1.3"/>
+<text x="1196" y="672" text-anchor="middle" font-size="10.5" fill="#1a1a1a">View Leave Balance</text>
+<ellipse cx="944" cy="704" rx="118" ry="14" fill="#ffffff" stroke="#f08c00" stroke-width="1.3"/>
+<text x="944" y="708" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Request Work From Home</text>
+<ellipse cx="1196" cy="704" rx="118" ry="14" fill="#ffffff" stroke="#f08c00" stroke-width="1.3"/>
+<text x="1196" y="708" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Request Permission</text>
+<ellipse cx="944" cy="740" rx="118" ry="14" fill="#ffffff" stroke="#f08c00" stroke-width="1.3"/>
+<text x="944" y="744" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Approve Leave</text>
+<ellipse cx="1196" cy="740" rx="118" ry="14" fill="#ffffff" stroke="#f08c00" stroke-width="1.3"/>
+<text x="1196" y="744" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Reject Leave</text>
+<ellipse cx="944" cy="776" rx="118" ry="14" fill="#ffffff" stroke="#f08c00" stroke-width="1.3"/>
+<text x="944" y="780" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Manage Leave Types</text>
+<ellipse cx="1196" cy="776" rx="118" ry="14" fill="#ffffff" stroke="#f08c00" stroke-width="1.3"/>
+<text x="1196" y="780" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Manage Leave Policies</text>
+<ellipse cx="944" cy="812" rx="118" ry="14" fill="#ffffff" stroke="#f08c00" stroke-width="1.3"/>
+<text x="944" y="816" text-anchor="middle" font-size="10.5" fill="#1a1a1a">View Leave History</text>
+<ellipse cx="1196" cy="812" rx="118" ry="14" fill="#ffffff" stroke="#f08c00" stroke-width="1.3"/>
+<text x="1196" y="816" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Update Leave Balance</text>
+<ellipse cx="944" cy="848" rx="118" ry="14" fill="#ffffff" stroke="#f08c00" stroke-width="1.3"/>
+<text x="944" y="852" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Notify Employee</text>
+<rect x="1390" y="584" width="520" height="310" rx="10" fill="#fff0f6" fill-opacity="0.35" stroke="#e64980" stroke-width="1.8" stroke-dasharray="6,4"/>
+<text x="1650" y="606" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#e64980">7. HOLIDAY MANAGEMENT</text>
+<ellipse cx="1650" cy="632" rx="244" ry="14" fill="#ffffff" stroke="#e64980" stroke-width="1.3"/>
+<text x="1650" y="636" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Create Holiday</text>
+<ellipse cx="1650" cy="668" rx="244" ry="14" fill="#ffffff" stroke="#e64980" stroke-width="1.3"/>
+<text x="1650" y="672" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Edit Holiday</text>
+<ellipse cx="1650" cy="704" rx="244" ry="14" fill="#ffffff" stroke="#e64980" stroke-width="1.3"/>
+<text x="1650" y="708" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Delete Holiday</text>
+<ellipse cx="1650" cy="740" rx="244" ry="14" fill="#ffffff" stroke="#e64980" stroke-width="1.3"/>
+<text x="1650" y="744" text-anchor="middle" font-size="10.5" fill="#1a1a1a">View Holiday Calendar</text>
+<rect x="1970" y="584" width="520" height="310" rx="10" fill="#e7f5ff" fill-opacity="0.35" stroke="#1c7ed6" stroke-width="1.8" stroke-dasharray="6,4"/>
+<text x="2230" y="606" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#1c7ed6">8. EMPLOYEE SELF SERVICE (ESS)</text>
+<ellipse cx="2104" cy="632" rx="118" ry="14" fill="#ffffff" stroke="#1c7ed6" stroke-width="1.3"/>
+<text x="2104" y="636" text-anchor="middle" font-size="10.5" fill="#1a1a1a">View Dashboard</text>
+<ellipse cx="2356" cy="632" rx="118" ry="14" fill="#ffffff" stroke="#1c7ed6" stroke-width="1.3"/>
+<text x="2356" y="636" text-anchor="middle" font-size="10.5" fill="#1a1a1a">View Attendance</text>
+<ellipse cx="2104" cy="668" rx="118" ry="14" fill="#ffffff" stroke="#1c7ed6" stroke-width="1.3"/>
+<text x="2104" y="672" text-anchor="middle" font-size="10.5" fill="#1a1a1a">View Leave Balance</text>
+<ellipse cx="2356" cy="668" rx="118" ry="14" fill="#ffffff" stroke="#1c7ed6" stroke-width="1.3"/>
+<text x="2356" y="672" text-anchor="middle" font-size="10.5" fill="#1a1a1a">View Documents</text>
+<ellipse cx="2104" cy="704" rx="118" ry="14" fill="#ffffff" stroke="#1c7ed6" stroke-width="1.3"/>
+<text x="2104" y="708" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Download Documents</text>
+<ellipse cx="2356" cy="704" rx="118" ry="14" fill="#ffffff" stroke="#1c7ed6" stroke-width="1.3"/>
+<text x="2356" y="708" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Update Profile</text>
+<ellipse cx="2104" cy="740" rx="118" ry="14" fill="#ffffff" stroke="#1c7ed6" stroke-width="1.3"/>
+<text x="2104" y="744" text-anchor="middle" font-size="10.5" fill="#1a1a1a">View Notifications</text>
+<ellipse cx="2356" cy="740" rx="118" ry="14" fill="#ffffff" stroke="#1c7ed6" stroke-width="1.3"/>
+<text x="2356" y="744" text-anchor="middle" font-size="10.5" fill="#1a1a1a">View Announcements</text>
+<rect x="230" y="954" width="520" height="238" rx="10" fill="#fff9db" fill-opacity="0.35" stroke="#fab005" stroke-width="1.8" stroke-dasharray="6,4"/>
+<text x="490" y="976" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#fab005">9. NOTIFICATIONS</text>
+<ellipse cx="364" cy="1002" rx="118" ry="14" fill="#ffffff" stroke="#fab005" stroke-width="1.3"/>
+<text x="364" y="1006" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Send Notification</text>
+<ellipse cx="616" cy="1002" rx="118" ry="14" fill="#ffffff" stroke="#fab005" stroke-width="1.3"/>
+<text x="616" y="1006" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Approval Notification</text>
+<ellipse cx="364" cy="1038" rx="118" ry="14" fill="#ffffff" stroke="#fab005" stroke-width="1.3"/>
+<text x="364" y="1042" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Attendance Reminder</text>
+<ellipse cx="616" cy="1038" rx="118" ry="14" fill="#ffffff" stroke="#fab005" stroke-width="1.3"/>
+<text x="616" y="1042" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Leave Approval Notification</text>
+<ellipse cx="364" cy="1074" rx="118" ry="14" fill="#ffffff" stroke="#fab005" stroke-width="1.3"/>
+<text x="364" y="1078" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Email Notification</text>
+<ellipse cx="616" cy="1074" rx="118" ry="14" fill="#ffffff" stroke="#fab005" stroke-width="1.3"/>
+<text x="616" y="1078" text-anchor="middle" font-size="10.5" fill="#1a1a1a">In-App Notification</text>
+<rect x="810" y="954" width="520" height="238" rx="10" fill="#f1f3f5" fill-opacity="0.35" stroke="#495057" stroke-width="1.8" stroke-dasharray="6,4"/>
+<text x="1070" y="976" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#495057">10. REPORTS &amp; ANALYTICS</text>
+<ellipse cx="1070" cy="1002" rx="244" ry="14" fill="#ffffff" stroke="#495057" stroke-width="1.3"/>
+<text x="1070" y="1006" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Attendance Report</text>
+<ellipse cx="1070" cy="1038" rx="244" ry="14" fill="#ffffff" stroke="#495057" stroke-width="1.3"/>
+<text x="1070" y="1042" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Leave Report</text>
+<ellipse cx="1070" cy="1074" rx="244" ry="14" fill="#ffffff" stroke="#495057" stroke-width="1.3"/>
+<text x="1070" y="1078" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Employee Report</text>
+<ellipse cx="1070" cy="1110" rx="244" ry="14" fill="#ffffff" stroke="#495057" stroke-width="1.3"/>
+<text x="1070" y="1114" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Custom Reports</text>
+<ellipse cx="1070" cy="1146" rx="244" ry="14" fill="#ffffff" stroke="#495057" stroke-width="1.3"/>
+<text x="1070" y="1150" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Export Report</text>
+<rect x="1390" y="954" width="520" height="238" rx="10" fill="#ebfbee" fill-opacity="0.35" stroke="#2b8a3e" stroke-width="1.8" stroke-dasharray="6,4"/>
+<text x="1650" y="976" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#2b8a3e">11. SECURITY &amp; ACCESS CONTROL</text>
+<ellipse cx="1650" cy="1002" rx="244" ry="14" fill="#ffffff" stroke="#2b8a3e" stroke-width="1.3"/>
+<text x="1650" y="1006" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Authenticate User</text>
+<ellipse cx="1650" cy="1038" rx="244" ry="14" fill="#ffffff" stroke="#2b8a3e" stroke-width="1.3"/>
+<text x="1650" y="1042" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Authorize User</text>
+<ellipse cx="1650" cy="1074" rx="244" ry="14" fill="#ffffff" stroke="#2b8a3e" stroke-width="1.3"/>
+<text x="1650" y="1078" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Role Validation</text>
+<ellipse cx="1650" cy="1110" rx="244" ry="14" fill="#ffffff" stroke="#2b8a3e" stroke-width="1.3"/>
+<text x="1650" y="1114" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Permission Validation</text>
+<ellipse cx="1650" cy="1146" rx="244" ry="14" fill="#ffffff" stroke="#2b8a3e" stroke-width="1.3"/>
+<text x="1650" y="1150" text-anchor="middle" font-size="10.5" fill="#1a1a1a">JWT Authentication</text>
+<rect x="1970" y="954" width="520" height="238" rx="10" fill="#f8f0fc" fill-opacity="0.35" stroke="#9c36b5" stroke-width="1.8" stroke-dasharray="6,4"/>
+<text x="2230" y="976" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#9c36b5">12. AUDIT LOGS</text>
+<ellipse cx="2230" cy="1002" rx="244" ry="14" fill="#ffffff" stroke="#9c36b5" stroke-width="1.3"/>
+<text x="2230" y="1006" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Record User Activity</text>
+<ellipse cx="2230" cy="1038" rx="244" ry="14" fill="#ffffff" stroke="#9c36b5" stroke-width="1.3"/>
+<text x="2230" y="1042" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Track Login History</text>
+<ellipse cx="2230" cy="1074" rx="244" ry="14" fill="#ffffff" stroke="#9c36b5" stroke-width="1.3"/>
+<text x="2230" y="1078" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Track Data Changes</text>
+<ellipse cx="2230" cy="1110" rx="244" ry="14" fill="#ffffff" stroke="#9c36b5" stroke-width="1.3"/>
+<text x="2230" y="1114" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Track IP Address</text>
+<ellipse cx="2230" cy="1146" rx="244" ry="14" fill="#ffffff" stroke="#9c36b5" stroke-width="1.3"/>
+<text x="2230" y="1150" text-anchor="middle" font-size="10.5" fill="#1a1a1a">Track Timestamp</text>
+<g transform="translate(90,180) scale(1.0)">
+<circle cx="0" cy="0" r="13" fill="none" stroke="#1864ab" stroke-width="2.2"/>
+<line x1="0" y1="13" x2="0" y2="50" stroke="#1864ab" stroke-width="2.2"/>
+<line x1="-20" y1="27" x2="20" y2="27" stroke="#1864ab" stroke-width="2.2"/>
+<line x1="0" y1="50" x2="-17" y2="82" stroke="#1864ab" stroke-width="2.2"/>
+<line x1="0" y1="50" x2="17" y2="82" stroke="#1864ab" stroke-width="2.2"/>
+</g>
+<text x="90" y="280" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#1864ab">Super Admin</text>
+<g transform="translate(90,404) scale(1.0)">
+<circle cx="0" cy="0" r="13" fill="none" stroke="#2f9e44" stroke-width="2.2"/>
+<line x1="0" y1="13" x2="0" y2="50" stroke="#2f9e44" stroke-width="2.2"/>
+<line x1="-20" y1="27" x2="20" y2="27" stroke="#2f9e44" stroke-width="2.2"/>
+<line x1="0" y1="50" x2="-17" y2="82" stroke="#2f9e44" stroke-width="2.2"/>
+<line x1="0" y1="50" x2="17" y2="82" stroke="#2f9e44" stroke-width="2.2"/>
+</g>
+<text x="90" y="504" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#2f9e44">HR Admin</text>
+<g transform="translate(90,629) scale(1.0)">
+<circle cx="0" cy="0" r="13" fill="none" stroke="#e8590c" stroke-width="2.2"/>
+<line x1="0" y1="13" x2="0" y2="50" stroke="#e8590c" stroke-width="2.2"/>
+<line x1="-20" y1="27" x2="20" y2="27" stroke="#e8590c" stroke-width="2.2"/>
+<line x1="0" y1="50" x2="-17" y2="82" stroke="#e8590c" stroke-width="2.2"/>
+<line x1="0" y1="50" x2="17" y2="82" stroke="#e8590c" stroke-width="2.2"/>
+</g>
+<text x="90" y="729" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#e8590c">HR Executive</text>
+<g transform="translate(90,853) scale(1.0)">
+<circle cx="0" cy="0" r="13" fill="none" stroke="#5f3dc4" stroke-width="2.2"/>
+<line x1="0" y1="13" x2="0" y2="50" stroke="#5f3dc4" stroke-width="2.2"/>
+<line x1="-20" y1="27" x2="20" y2="27" stroke="#5f3dc4" stroke-width="2.2"/>
+<line x1="0" y1="50" x2="-17" y2="82" stroke="#5f3dc4" stroke-width="2.2"/>
+<line x1="0" y1="50" x2="17" y2="82" stroke="#5f3dc4" stroke-width="2.2"/>
+</g>
+<text x="90" y="953" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#5f3dc4">Manager /</text>
+<text x="90" y="968" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#5f3dc4">Team Lead</text>
+<g transform="translate(90,1078) scale(1.0)">
+<circle cx="0" cy="0" r="13" fill="none" stroke="#1098ad" stroke-width="2.2"/>
+<line x1="0" y1="13" x2="0" y2="50" stroke="#1098ad" stroke-width="2.2"/>
+<line x1="-20" y1="27" x2="20" y2="27" stroke="#1098ad" stroke-width="2.2"/>
+<line x1="0" y1="50" x2="-17" y2="82" stroke="#1098ad" stroke-width="2.2"/>
+<line x1="0" y1="50" x2="17" y2="82" stroke="#1098ad" stroke-width="2.2"/>
+</g>
+<text x="90" y="1178" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#1098ad">Employee</text>
+<g transform="translate(2620,220) scale(1.0)">
+<circle cx="0" cy="0" r="13" fill="none" stroke="#0ca678" stroke-width="2.2"/>
+<line x1="0" y1="13" x2="0" y2="50" stroke="#0ca678" stroke-width="2.2"/>
+<line x1="-20" y1="27" x2="20" y2="27" stroke="#0ca678" stroke-width="2.2"/>
+<line x1="0" y1="50" x2="-17" y2="82" stroke="#0ca678" stroke-width="2.2"/>
+<line x1="0" y1="50" x2="17" y2="82" stroke="#0ca678" stroke-width="2.2"/>
+</g>
+<text x="2620" y="320" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#0ca678">GPS Service</text>
+<text x="2620" y="335" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#0ca678">(External)</text>
+<g transform="translate(2620,594) scale(1.0)">
+<circle cx="0" cy="0" r="13" fill="none" stroke="#e03131" stroke-width="2.2"/>
+<line x1="0" y1="13" x2="0" y2="50" stroke="#e03131" stroke-width="2.2"/>
+<line x1="-20" y1="27" x2="20" y2="27" stroke="#e03131" stroke-width="2.2"/>
+<line x1="0" y1="50" x2="-17" y2="82" stroke="#e03131" stroke-width="2.2"/>
+<line x1="0" y1="50" x2="17" y2="82" stroke="#e03131" stroke-width="2.2"/>
+</g>
+<text x="2620" y="694" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#e03131">Notification</text>
+<text x="2620" y="709" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#e03131">Service (Ext.)</text>
+<g transform="translate(2620,968) scale(1.0)">
+<circle cx="0" cy="0" r="13" fill="none" stroke="#5c5f66" stroke-width="2.2"/>
+<line x1="0" y1="13" x2="0" y2="50" stroke="#5c5f66" stroke-width="2.2"/>
+<line x1="-20" y1="27" x2="20" y2="27" stroke="#5c5f66" stroke-width="2.2"/>
+<line x1="0" y1="50" x2="-17" y2="82" stroke="#5c5f66" stroke-width="2.2"/>
+<line x1="0" y1="50" x2="17" y2="82" stroke="#5c5f66" stroke-width="2.2"/>
+</g>
+<text x="2620" y="1068" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#5c5f66">System</text>
+<text x="2620" y="1083" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#5c5f66">(Audit Logger)</text>
+<path d="M106,175 C186,175 170,201 230,201" fill="none" stroke="#1864ab" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,175 C186,175 750,264 810,264" fill="none" stroke="#1864ab" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,175 C186,175 1330,1073 1390,1073" fill="none" stroke="#1864ab" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,175 C186,175 1910,1111 1970,1111" fill="none" stroke="#1864ab" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,175 C186,175 750,1149 810,1149" fill="none" stroke="#1864ab" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,848 C186,848 170,201 230,201" fill="none" stroke="#5f3dc4" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,848 C186,848 1910,285 1970,285" fill="none" stroke="#5f3dc4" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,848 C186,848 750,772 810,772" fill="none" stroke="#5f3dc4" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,848 C186,848 750,1149 810,1149" fill="none" stroke="#5f3dc4" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,399 C186,399 170,201 230,201" fill="none" stroke="#2f9e44" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,399 C186,399 750,243 810,243" fill="none" stroke="#2f9e44" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,399 C186,399 1330,285 1390,285" fill="none" stroke="#2f9e44" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,399 C186,399 1910,327 1970,327" fill="none" stroke="#2f9e44" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,399 C186,399 750,772 810,772" fill="none" stroke="#2f9e44" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,399 C186,399 1330,805 1390,805" fill="none" stroke="#2f9e44" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,399 C186,399 750,1149 810,1149" fill="none" stroke="#2f9e44" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,624 C186,624 170,201 230,201" fill="none" stroke="#e8590c" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,624 C186,624 1330,285 1390,285" fill="none" stroke="#e8590c" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,624 C186,624 1910,369 1970,369" fill="none" stroke="#e8590c" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,624 C186,624 750,838 810,838" fill="none" stroke="#e8590c" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,1073 C186,1073 170,201 230,201" fill="none" stroke="#1098ad" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,1073 C186,1073 1910,251 1970,251" fill="none" stroke="#1098ad" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,1073 C186,1073 170,719 230,719" fill="none" stroke="#1098ad" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,1073 C186,1073 750,759 810,759" fill="none" stroke="#1098ad" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,1073 C186,1073 1330,799 1390,799" fill="none" stroke="#1098ad" stroke-width="1.2" opacity="0.55"/>
+<path d="M106,1073 C186,1073 1910,838 1970,838" fill="none" stroke="#1098ad" stroke-width="1.2" opacity="0.55"/>
+<path d="M750,739 C820,739 2534,215 2604,215" fill="none" stroke="#0ca678" stroke-width="1.3" stroke-dasharray="5,4" opacity="0.75"/>
+<path d="M750,1073 C820,1073 2534,589 2604,589" fill="none" stroke="#e03131" stroke-width="1.3" stroke-dasharray="5,4" opacity="0.75"/>
+<path d="M2490,1073 C2560,1073 2534,963 2604,963" fill="none" stroke="#5c5f66" stroke-width="1.3" stroke-dasharray="5,4" opacity="0.75"/>
+
+<rect x="210" y="1262" width="620" height="120" rx="8" fill="#fafafa" stroke="#999" stroke-width="1"/>
+<text x="226" y="1288" font-size="14" font-weight="bold" fill="#0b2e59">LEGEND</text>
+<line x1="230" y1="1312" x2="280" y2="1312" stroke="#333" stroke-width="1.5"/>
+<text x="290" y="1316" font-size="12">Association</text>
+<line x1="230" y1="1337" x2="280" y2="1337" stroke="#333" stroke-width="1.5" stroke-dasharray="5,4"/>
+<text x="290" y="1341" font-size="12">External / Include Relationship</text>
+<rect x="230" y="1354" width="55" height="18" rx="9" fill="none" stroke="#333" stroke-dasharray="4,3"/>
+<text x="295" y="1367" font-size="12">Module (System) Boundary</text>
+<rect x="870" y="1262" width="1840" height="120" rx="8" fill="#f3f6ff" stroke="#889" stroke-width="1"/>
+<text x="886" y="1286" font-size="13" font-weight="bold" fill="#0b2e59">NOTES</text>
+<text x="886" y="1306" font-size="11.3" fill="#333">1. All actors must Login / Authenticate before accessing any module.</text>
+<text x="886" y="1325" font-size="11.3" fill="#333">2. Every module implicitly includes Security &amp; Access Control (Authenticate / Authorize User).</text>
+<text x="886" y="1344" font-size="11.3" fill="#333">3. GPS Service, Notification Service and the Audit Logger are external systems.</text>
+<text x="886" y="1363" font-size="11.3" fill="#333">4. Lines are grouped per module (not per use case) to keep the diagram readable — no feature has been removed.</text>
+</svg>

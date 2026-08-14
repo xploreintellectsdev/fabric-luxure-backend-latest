@@ -1,0 +1,81 @@
+<svg viewBox="0 0 1300 480" xmlns="http://www.w3.org/2000/svg" font-family="Arial, Helvetica, sans-serif">
+  <rect x="0" y="0" width="1300" height="480" fill="#ffffff"/>
+  <text x="650" y="40" text-anchor="middle" font-size="26" font-weight="bold" fill="#0b2e59">Project Work Schedule — Enterprise HRM (Phase 1)</text>
+
+  <!-- Chart area: x 260 to 1250 (990px), 18 weeks => 55px/week -->
+
+  <!-- Week gridlines + labels -->
+  <g font-size="12" fill="#555">
+    <line x1="260" y1="80" x2="260" y2="430" stroke="#e5e5e5"/><text x="260" y="70" text-anchor="middle">W1</text>
+    <line x1="315" y1="80" x2="315" y2="430" stroke="#e5e5e5"/><text x="315" y="70" text-anchor="middle">W2</text>
+    <line x1="370" y1="80" x2="370" y2="430" stroke="#e5e5e5"/><text x="370" y="70" text-anchor="middle">W3</text>
+    <line x1="425" y1="80" x2="425" y2="430" stroke="#e5e5e5"/><text x="425" y="70" text-anchor="middle">W4</text>
+    <line x1="480" y1="80" x2="480" y2="430" stroke="#e5e5e5"/><text x="480" y="70" text-anchor="middle">W5</text>
+    <line x1="535" y1="80" x2="535" y2="430" stroke="#e5e5e5"/><text x="535" y="70" text-anchor="middle">W6</text>
+    <line x1="590" y1="80" x2="590" y2="430" stroke="#e5e5e5"/><text x="590" y="70" text-anchor="middle">W7</text>
+    <line x1="645" y1="80" x2="645" y2="430" stroke="#e5e5e5"/><text x="645" y="70" text-anchor="middle">W8</text>
+    <line x1="700" y1="80" x2="700" y2="430" stroke="#e5e5e5"/><text x="700" y="70" text-anchor="middle">W9</text>
+    <line x1="755" y1="80" x2="755" y2="430" stroke="#e5e5e5"/><text x="755" y="70" text-anchor="middle">W10</text>
+    <line x1="810" y1="80" x2="810" y2="430" stroke="#e5e5e5"/><text x="810" y="70" text-anchor="middle">W11</text>
+    <line x1="865" y1="80" x2="865" y2="430" stroke="#e5e5e5"/><text x="865" y="70" text-anchor="middle">W12</text>
+    <line x1="920" y1="80" x2="920" y2="430" stroke="#e5e5e5"/><text x="920" y="70" text-anchor="middle">W13</text>
+    <line x1="975" y1="80" x2="975" y2="430" stroke="#e5e5e5"/><text x="975" y="70" text-anchor="middle">W14</text>
+    <line x1="1030" y1="80" x2="1030" y2="430" stroke="#e5e5e5"/><text x="1030" y="70" text-anchor="middle">W15</text>
+    <line x1="1085" y1="80" x2="1085" y2="430" stroke="#e5e5e5"/><text x="1085" y="70" text-anchor="middle">W16</text>
+    <line x1="1140" y1="80" x2="1140" y2="430" stroke="#e5e5e5"/><text x="1140" y="70" text-anchor="middle">W17</text>
+    <line x1="1195" y1="80" x2="1195" y2="430" stroke="#e5e5e5"/><text x="1195" y="70" text-anchor="middle">W18</text>
+    <line x1="1250" y1="80" x2="1250" y2="430" stroke="#e5e5e5"/>
+  </g>
+
+  <!-- Row labels -->
+  <g font-size="14" fill="#0b2e59" font-weight="bold">
+    <text x="20" y="118">1.1 Auth &amp; RBAC,</text>
+    <text x="20" y="134">Company Setup</text>
+
+    <text x="20" y="178">1.2 Employee Mgmt,</text>
+    <text x="20" y="194">Doc Mgmt, Lifecycle</text>
+
+    <text x="20" y="238">1.3 Attendance,</text>
+    <text x="20" y="254">Geo-Tracking, Shifts</text>
+
+    <text x="20" y="298">1.4 Leave Mgmt,</text>
+    <text x="20" y="314">Holiday Mgmt</text>
+
+    <text x="20" y="358">1.5 ESS Portal,</text>
+    <text x="20" y="374">Notifications, Audit</text>
+
+    <text x="20" y="418">Final: Testing,</text>
+    <text x="20" y="434">Docs, Review</text>
+  </g>
+
+  <!-- Bars (x-start = 260 + (startWeek-1)*55, width = numWeeks*55) -->
+  <!-- Row 1: weeks 1-3 -->
+  <rect x="260" y="98" width="165" height="30" rx="6" fill="#1f6feb"/>
+  <text x="342" y="118" text-anchor="middle" font-size="12" fill="#fff" font-weight="bold">3 wks</text>
+  <!-- Row 2: weeks 4-7 -->
+  <rect x="425" y="158" width="220" height="30" rx="6" fill="#2f9e44"/>
+  <text x="535" y="178" text-anchor="middle" font-size="12" fill="#fff" font-weight="bold">4 wks</text>
+  <!-- Row 3: weeks 8-11 -->
+  <rect x="645" y="218" width="220" height="30" rx="6" fill="#e8590c"/>
+  <text x="755" y="238" text-anchor="middle" font-size="12" fill="#fff" font-weight="bold">4 wks</text>
+  <!-- Row 4: weeks 12-14 -->
+  <rect x="865" y="278" width="165" height="30" rx="6" fill="#7048e8"/>
+  <text x="947" y="298" text-anchor="middle" font-size="12" fill="#fff" font-weight="bold">3 wks</text>
+  <!-- Row 5: weeks 15-16 -->
+  <rect x="1030" y="338" width="110" height="30" rx="6" fill="#e64980"/>
+  <text x="1085" y="358" text-anchor="middle" font-size="12" fill="#fff" font-weight="bold">2 wks</text>
+  <!-- Row 6: weeks 17-18 -->
+  <rect x="1140" y="398" width="110" height="30" rx="6" fill="#495057"/>
+  <text x="1195" y="418" text-anchor="middle" font-size="12" fill="#fff" font-weight="bold">2 wks</text>
+
+  <!-- Row separator lines -->
+  <g stroke="#f0f0f0">
+    <line x1="260" y1="140" x2="1250" y2="140"/>
+    <line x1="260" y1="200" x2="1250" y2="200"/>
+    <line x1="260" y1="260" x2="1250" y2="260"/>
+    <line x1="260" y1="320" x2="1250" y2="320"/>
+    <line x1="260" y1="380" x2="1250" y2="380"/>
+  </g>
+
+  <text x="650" y="465" text-anchor="middle" font-size="13" fill="#666">Total duration: ~18 weeks (approx. 4.5 months)</text>
+</svg>
